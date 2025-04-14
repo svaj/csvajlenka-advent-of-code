@@ -1,4 +1,4 @@
-import { calculateTotalScore } from './problem-12';
+import { calculateTotalScore } from './problem-2';
 
 describe('calculateTotalScore', () => {
 
